@@ -1,0 +1,51 @@
+body{
+	background-color:lightblue; 
+	text-align:center;
+	}
+#home{
+	background-color:lightblue; 
+	text-align:center;
+	height:22px;
+	width:80px;
+	}
+h1{
+	font-family:"lucida console","courier new",monospace;
+	}
+#a{
+	background-color:white;
+	height:10px;
+	}
+#b{
+	font-family:"lucida console","courier new",monospace;
+	background-color:white;
+	height:30px;
+	}
+#Or{
+	background-color:orange;
+	height:100px;
+	}
+#W{
+	background-color:white;
+	height:100px;
+	}
+#G{
+	background-color:green;
+	height:100px;
+	}
+#h{
+	background-color:skyblue; 
+	text-align:center;
+	}
+div{
+	font-family:"lucida console","courier new",monospace;
+	}
+#help{
+	background-color:lightgreen; 
+	text-align:center; 
+	color: black; 
+	height:22px;
+	width:80px;
+	}
+#m{
+	height:30px;
+	}
